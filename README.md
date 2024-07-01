@@ -1,4 +1,4 @@
-[![tdsp](https://raw.githubusercontent.com/tirthajyoti/Data-science-best-resources/master/images/tdsp-lifecycle2.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmustafashoukat_data-science-complete-lifecycle-activity-7188940597263515648-O_Jd&psig=AOvVaw1fzZaiQMBuhZEG84iJvGxV&ust=1719957801789000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCYl6DshocDFQAAAAAdAAAAABAE)
+![tdsp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmustafashoukat_data-science-complete-lifecycle-activity-7188940597263515648-O_Jd&psig=AOvVaw1fzZaiQMBuhZEG84iJvGxV&ust=1719957801789000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCYl6DshocDFQAAAAAdAAAAABAE)
 
 # Data Science Collected Resources
 A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place.
