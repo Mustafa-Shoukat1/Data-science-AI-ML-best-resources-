@@ -1,4 +1,4 @@
-![tdsp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmustafashoukat_data-science-complete-lifecycle-activity-7188940597263515648-O_Jd&psig=AOvVaw1fzZaiQMBuhZEG84iJvGxV&ust=1719957801789000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCYl6DshocDFQAAAAAdAAAAABAE)
+![tdsp](https://media.licdn.com/dms/image/D4D22AQElT9LxdMM7oQ/feedshare-shrink_800/0/1713977001625?e=2147483647&v=beta&t=heoiP926AhJ4eqNu5lBc3iVL5KU_FlWuLLKpHoTWNkw)
 
 # Data Science Collected Resources
 A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place.
