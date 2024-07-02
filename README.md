@@ -1,17 +1,17 @@
 ![tdsp](https://media.licdn.com/dms/image/D4D22AQElT9LxdMM7oQ/feedshare-shrink_800/0/1713977001625?e=2147483647&v=beta&t=heoiP926AhJ4eqNu5lBc3iVL5KU_FlWuLLKpHoTWNkw)
 
 # Data Science Collected Resources
-A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place.
+A trove of carefully curated resources and links (on software, platforms, language, techniques, etc.) related to data science, all in one place.
 
 <div style="border-radius: 20px; border: 2px solid #336699; padding: 20px; background-color: #e0f7fa; text-align: center; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4), 0px 6px 20px rgba(0, 0, 0, 0.19); transform: perspective(1000px) rotateX(5deg) rotateY(-5deg); transition: transform 0.5s ease-in-out;">
     <h1 style="color: #003366; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); font-weight: bold; margin-bottom: 10px; font-size: 32px;">
         Welcome!
     </h1>
     <p style="color: #003366; font-size: 18px; margin: 15px 0;">
-        Asalam alaikum warahmatullah wabarakatu. I'm Mustafa Shoukat, Data Scientist, committed to honing my skills through exploration and experimentation.
+        Asalam alaikum warahmatullah wabarakatu. Mustafa Shoukat, a Data Scientist, committed to honing my skills through exploration and experimentation.
     </p>
     <p style="color: #006699; font-size: 16px; font-style: italic;">
-        "Community is the heart of growth and learning. Together, we can achieve more than we ever could alone."
+        " Machine Learning doesn't predict the future it reflects the past."
     </p>
     <h2 style="color: #003366; margin-top: 20px; font-size: 28px;">Contact Information</h2>
     <table style="width: 100%; margin-top: 20px; border-collapse: collapse;">
